@@ -1,0 +1,31 @@
+body{
+    background-color:#ffa1e8
+   }
+    
+  h1{
+  font-family: 'Lato', sans-serif;
+  font-family: 'Teko', sans-serif;
+  font-size: 40px;
+  text-align: center;
+  }
+  p1{
+    font-family: 'Dosis', sans-serif;
+   font-family: 'Lato', sans-serif;
+   font-family: 'Teko', sans-serif;
+  }
+  p2{
+    font-family: 'Dosis', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Teko', sans-serif;
+  }
+  p3{
+    font-family: 'Dosis', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Teko', sans-serif;
+  }
+    .novels-img{
+    border:  10px solid black;
+    align-content: center;
+    margin-left: 80px;
+
+  }
